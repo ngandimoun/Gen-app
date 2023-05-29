@@ -1,0 +1,17 @@
+streamlit
+plotly
+matplotlib
+numpy
+pandas
+textblob
+yfinance
+datetime
+os
+glob
+seaborn
+cufflinks
+wordcloud
+random
+PIL
+plotly.offline
+nltk
