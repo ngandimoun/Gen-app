@@ -7,7 +7,7 @@ pandas
 textblob
 yfinance
 DateTime
-os-sys
+os_sys
 glob2
 seaborn
 cufflinks
