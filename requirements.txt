@@ -7,10 +7,10 @@ pandas
 textblob
 yfinance
 DateTime
-os-sys
 glob2
 seaborn
 cufflinks
 wordcloud
 random2
 Pillow
+nltk
