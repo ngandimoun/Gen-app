@@ -14,4 +14,3 @@ cufflinks
 wordcloud
 random2
 Pillow
-nltk
